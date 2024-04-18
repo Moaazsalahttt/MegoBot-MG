@@ -46,11 +46,11 @@ global.mes = d.toLocaleDateString('ar', {month: 'long'});
 global.año = d.toLocaleDateString('ar', {year: 'numeric'});
 global.tiempo = d.toLocaleString('ar-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\n☾︎ 𝙈𝙀𝙂𝙊𝘽𝙊𝙏-𝙈𝘿 ☽︎`;
-global.gt = '☾︎ 𝙈𝙀𝙂𝙊𝘽𝙊𝙏-𝙈𝘿 ☽︎';
-global.mysticbot = '☾︎ 𝙈𝙀𝙂𝙊𝘽𝙊𝙏-𝙈𝘿 ☽︎';
-global.md = 'atom.bio/mego51_51';
-global.mysticbot = 'atom.bio/mego51_51';
+global.wm2 = `${dia} ${fecha}\n☾︎ venom bot ☽︎`;
+global.gt = '☾︎ venom bot ☽︎';
+global.mysticbot = '☾︎ venom bot ☽︎';
+global.md = '✨';
+global.mysticbot = '✨';
 global.waitt = '*[ ⏳ ] انتظر جاي التحميل*';
 global.waittt = '*[ ⏳ ] انتظر جاي التحميل*';
 global.waitttt = '*[ ⏳ ] انتظر جاي التحميل*';
