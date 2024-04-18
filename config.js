@@ -12,13 +12,8 @@ global.confirmCode = ""
 
 global.owner = [['201156323742', 'Moaaz, ✨👑', true],
 ];
-global.owner = [['201129003230', 'BOSS, ✨👑', true],
-]
-
 global.suittag = ['201156323742'];
-global.suittag = ['201129003230'];
 global.prems = ['201156323742'];
-global.prems = ['201129003230'];
 
 global.packname = '☾︎ venom bot ☽︎';
 global.author = '✩venom bot☆';
@@ -55,7 +50,6 @@ global.waitt = '*[ ⏳ ] انتظر جاي التحميل*';
 global.waittt = '*[ ⏳ ] انتظر جاي التحميل*';
 global.waitttt = '*[ ⏳ ] انتظر جاي التحميل*';
 global.nomorown = '201156323742';
-global.nomorown = '201129003230';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
