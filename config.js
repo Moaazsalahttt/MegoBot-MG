@@ -7,14 +7,18 @@ import fetch from 'node-fetch';
 import axios from 'axios';
 import moment from 'moment-timezone';
 
-global.botnumber = "*『🔥┇𝙼𝙴𝙶𝙾-𝙱𝙾𝚃』*"
+global.botnumber = "*『🔥┇venom-𝙱𝙾𝚃』*"
 global.confirmCode = ""
 
-global.owner = [['201012531172', '𝙢,𝙚,𝙜,𝙤, ❦︎', true],
+global.owner = [['201156323742', 'Moaaz, ✨👑', true],
 ];
+global.owner = [['201129003230', 'BOSS, ✨👑', true],
+]
 
-global.suittag = ['201025663589'];
-global.prems = ['201025663589'];
+global.suittag = ['201156323742'];
+global.suittag = ['201129003230'];
+global.prems = ['201156323742'];
+global.prems = ['201129003230'];
 
 global.packname = '☾︎ 𝙈𝙀𝙂𝙊𝘽𝙊𝙏-𝙈𝘿 ☽︎';
 global.author = '✩𝙼𝙴𝙶𝙾-𝙱𝙾𝚃☆';
