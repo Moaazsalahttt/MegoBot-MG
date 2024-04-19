@@ -3,9 +3,9 @@ let handler = m => m;
  handler.all = async function (m) { 
  let chat = global.db.data.chats[m.chat]; 
  let responses; 
- if (/^فينوم$/i.test(m.text)) { 
+ if (/^ياض يا فينوم$/i.test(m.text)) { 
  responses = [ 
- 'تحت امرك اطلب؟'
+let vn = './STK-20240419-WA0198.webp'
  ]; 
  } else if (/^بوووت|بموووووووووت|بوت$/i.test(m.text)) { 
      responses = [ 
