@@ -5,7 +5,7 @@ let handler = m => m;
  let responses; 
  if (/^ياض يا فينوم$/i.test(m.text)) { 
  responses = [ 
- let vn = './Menu.png'
+ let vn = './STK-20240419-WA0198.webp'
  ]; 
  } else if (/^نيك|سكس| احا$/i.test(m.text)) { 
      responses = [ 
